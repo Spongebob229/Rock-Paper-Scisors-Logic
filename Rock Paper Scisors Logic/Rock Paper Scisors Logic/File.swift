@@ -8,4 +8,5 @@
 import Foundation
 class File{
     let name: String = "Vasiliy"
+    let surname: String = "Shchannikov"
 }
