@@ -1,12 +1,11 @@
 //
-//  main.swift
+//  File.swift
 //  Rock Paper Scisors Logic
 //
 //  Created by Schannikov Timothy on 27.02.2024.
 //
 
 import Foundation
-
-let file = File()
-print(file.name)
-
+class File{
+    let name: String = "Vasiliy"
+}
